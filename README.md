@@ -1,6 +1,11 @@
-## Hi there 👋
+# Hey 👋 I'm Hans Elkan Sam C
 
-![Metrics](./metrics.svg)
+### GitHub Metrics
+![Field 1](./display1.svg)
+
+### More Stats
+![Field 2](./display2.svg)
+
 <!--
 **hanzel-sc/hanzel-sc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
