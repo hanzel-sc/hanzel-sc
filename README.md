@@ -1,7 +1,10 @@
-# Hey 👋 I'm Hans Elkan Sam C
+# Hi! I'm Hans Elkan Sam C
+
+Currently a 3rd year student pursuing a Bachelors in Computer Science and Engineering at Christ University, Bangalore. 
 
 ### GitHub Metrics
 ![Field 1](./display1.svg)
+
 
 ### More Stats
 ![Field 2](./display2.svg)
