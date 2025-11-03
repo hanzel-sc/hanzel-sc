@@ -2004,7 +2004,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M2.5 3.5v3h3v-3h-3zM2 2a1 1 0 00-1 1v4a1 1 0 001 1h4a1 1 0 001-1V3a1 1 0 00-1-1H2zm4.655 8.595a.75.75 0 010 1.06L4.03 14.28a.75.75 0 01-1.06 0l-1.5-1.5a.75.75 0 111.06-1.06l.97.97 2.095-2.095a.75.75 0 011.06 0zM9.75 2.5a.75.75 0 000 1.5h5.5a.75.75 0 000-1.5h-5.5zm0 5a.75.75 0 000 1.5h5.5a.75.75 0 000-1.5h-5.5zm0 5a.75.75 0 000 1.5h5.5a.75.75 0 000-1.5h-5.5z"/>
                     </svg>
-                    LeetCode statistics for Han
+                    LeetCode statistics for Hanzel_sc
                 </h2>
                 <section>
                     <div class="row fill-width leetcode scores">
@@ -2012,8 +2012,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.9068273092369474 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">33</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.8447121820615795 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">55</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3735</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -2021,8 +2021,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="7.592307692307693 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">21</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="14.823076923076924 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">41</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/910</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -2030,8 +2030,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.8616255144032923 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">11</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.200102880658436 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">13</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1944</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -2056,20 +2056,20 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x17</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x10</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x10</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x10</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x21</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Database <span class="count">x12</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x11</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x11</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x7</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x6</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x5</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x5</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x4</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x4</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x4</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Stack <span class="count">x3</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Recursion <span class="count">x2</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Linked List <span class="count">x2</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Trie <span class="count">x1</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x5</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x4</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x4</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x4</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x4</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Divide and Conquer <span class="count">x3</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x3</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Recursion <span class="count">x3</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
@@ -2084,26 +2084,26 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Binary Tree Maximum Path Sum</div>
-                            <div class="date">12 Nov 2013</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Triangle</div>
-                            <div class="date">12 Nov 2013</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
                             <div class="title">Best Time to Buy and Sell Stock</div>
-                            <div class="date">9 Nov 2013</div>
+                            <div class="date">21 Oct 2025</div>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
+                            <div class="title">Final Value of Variable After Performing Operations</div>
+                            <div class="date">21 Oct 2025</div>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
+                            <div class="title">Valid Parentheses</div>
+                            <div class="date">20 Oct 2025</div>
                         </div>
                     </div>
                 </section>
