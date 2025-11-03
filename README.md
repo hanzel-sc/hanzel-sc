@@ -4,7 +4,7 @@ Currently a 3rd year Computer Science & Engineering student at **Christ Universi
 
 ---
 
-### 🚀 Technical Skills
+### Technical Skills
 - Full-Stack Development with **React, Node, Express, SQL, Spring Boot**
 - Exploring **DevOps and DevSecOps**: Terraform, Jenkins, AWS automation, Vault, Infrastructure pentesting
 - Interested in **CyberSecurity**: Kali Linux, Tor, penetration testing, ethical hacking
@@ -12,21 +12,21 @@ Currently a 3rd year Computer Science & Engineering student at **Christ Universi
 
 ---
 
-### 📈 GitHub Metrics
+### GitHub Metrics
 ![Field 1](./display1.svg)
 
 
-### 📊 More Stats
+### More Stats
 ![Field 2](./display2.svg)
 
 ---
 
-### 🎨 Side Projects I Enjoy
+### Side Projects I Enjoy
 - Building retro music players & interactive mini-web apps
 
 ---
 
-### 🌱 Currently Exploring
+### Currently Exploring
 - Blending CSE and Medical Science
 - Contributing to OpenSource
 - **DevSecOps**: Building secure applications with end to end security. 
@@ -34,7 +34,7 @@ Currently a 3rd year Computer Science & Engineering student at **Christ Universi
 
 ---
 
-### 💡 A Little About Me
+### A Little About Me
 - 😄 Always curious, sometimes too deep in thought  
 - ✍️ I write poetry and lyrics when code isn’t enough
 - ♟️ Avid chess player. [Lichess](https://lichess.org/@/ZwischenzugX11) (Challenge me anytime 😄)
@@ -43,7 +43,7 @@ Currently a 3rd year Computer Science & Engineering student at **Christ Universi
 
 ---
 
-### 📫 Contact Me
+###  Contact Me
 - GitHub: [@hanzel-sc](https://github.com/hanzel-sc)  
 - LinkedIn: [Hans-Elkan-Sam-C](https://www.linkedin.com/in/hans-elkan-sam/)
 - Email: hanselkansam04@gmail.com
