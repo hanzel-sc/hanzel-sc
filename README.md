@@ -34,11 +34,6 @@ Currently a 3rd year Computer Science & Engineering student at **Christ Universi
 
 ---
 
-### Side Projects I Enjoy
-- Building retro music players & interactive mini-web apps
-
----
-
 ### Currently Exploring
 - Blending CSE and Medical Science
 - Contributing to OpenSource
